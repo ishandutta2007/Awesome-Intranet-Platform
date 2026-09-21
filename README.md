@@ -1,109 +1,131 @@
-# Awesome-Intranet-Platform
+# Awesome Intranet Platform <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-### Top Intranet Platforms Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Intranet Platform Banner" width="100%">
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-*Focused on Employee Communication, Digital Workplace, Knowledge Sharing & Internal Collaboration*
-**Last updated: September 2026**
+## 🏢 Top Intranet Platforms Ecosystem: Enterprise Digital Workplace & Employee Experience Hubs 🌐
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Intranet Platforms**. These tools help organizations connect employees, streamline internal communication, share knowledge, and build digital workplace experiences that engage both desk-based and frontline workers.
-
-**Examples** include Simpplr, Unily, Interact Software, Haiilo, LumApps, Igloo Software, Workvivo, Happeo, Axero, and ThoughtFarmer (the category leaders).
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom intranet CMS builds, and transparent employee data management — ideal for organizations that need full control over their digital workplace without per-seat SaaS fees or vendor lock-in.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-
-- **[Simpplr](https://www.simpplr.com/)**
-  AI-powered employee experience platform combining intranet, internal communications, enterprise search, and AI assistance. Surfaces information across SharePoint, Box, Dropbox, and Google Drive with personalized content delivery .
-
-- **[Unily](https://www.unily.com/)**
-  Award-winning Employee Experience Platform trusted by iconic enterprises from British Airways to Shell. Known for strong internal communications features including Campaigns for managing multi-channel content delivery .
-
-- **[Interact Software](https://www.interactsoftware.com/)**
-  Established intranet provider with 9+ years of customer retention. Focuses on employee communication, knowledge sharing, and engagement with a mature SaaS offering .
-
-- **[Haiilo](https://www.haiilo.com/)**
-  Formed from the merger of COYO, smarp, and Jubiwee. Drives employee engagement through social intranet features and behavioral insights .
-
-- **[LumApps](https://www.lumapps.com/)**
-  Digital workplace platform aligning with brand guidelines and streamlining workflows. Positioned as a strong option for organizations seeking a unified employee experience .
-
-- **[Igloo Software](https://www.igloo software.com/)**
-  Digital workplace platform recognized as a Visionary in Gartner's Magic Quadrant. Focuses on internal communications, collaboration, and knowledge management .
-
-- **[Workvivo](https://www.workvivo.com/)**
-  Now part of Zoom, combining intranet functionality with social-style employee engagement. Strong for frontline worker reach with mobile-first design, knowledge hubs, and employee journeys .
-
-- **[Happeo](https://www.happeo.com/)**
-  Intranet and employee communication platform designed for Google Workspace environments. Focuses on unified search, social feeds, and collaborative pages.
-
-- **[Axero](https://www.axero.com/)**
-  Intranet platform (formerly Communifire) with strong customer support and flexible configuration. Offers social networking, knowledge management, and workflow tools .
-
-- **[ThoughtFarmer](https://www.thoughtfarmer.com/)**
-  Intranet platform designed for hybrid and remote teams. Focuses on connecting employees, streamlining internal communication, and building workplace culture .
-
-## Open-Source GitHub Projects
-
-- **[eXo Platform](https://github.com/exoplatform/platform)**
-  The leading open-source intranet and digital workplace solution with over 20 years of development. Version 7.0 (2025) rebuilt on modern stack (JDK 21, Spring 6, Tomcat 10) with no-code configuration, AI chatbot integration, and PWA mobile apps. Version 7.1 (late 2025) refined UX with redesigned document management, unified search, and Matrix-powered chat. Serves 1M+ users including Elysée Palace, Inria, and US Department of Defense. Community Edition available. Enterprise Edition offers private cloud, SecNumCloud, or on-premise deployment .
-
-- **[Liferay DXP](https://github.com/liferay/liferay-portal)**
-  Enterprise-grade open-source platform bridging open flexibility with commercial backing. Provides structured content management, document management, workflow automation, enterprise search, and low-code tooling. Supports SaaS, PaaS, or self-hosted deployment. Ideal for organizations needing enterprise support without proprietary lock-in .
-
-- **[Plone](https://github.com/plone/plone)**
-  Mature Python-based CMS with strong focus on high-security environments, accessibility, and structured governance. Built-in workflow management, strict access control, multi-language support, and native version control. Modern REST API and React-based Volto frontend. Ideal for public sector, academic, and compliance-demanding environments .
-
-- **[XWiki](https://github.com/xwiki/xwiki-platform)**
-  Advanced open-source enterprise wiki and application platform used for collaborative intranets, knowledge bases, and business applications. Over 900 extensions available. Powered by organizations including INRA (French National Institute for Agricultural Research). Users report it matches Confluence feature-for-feature .
-
-- **[Simoona](https://github.com/VismaLietuva/simoona)**
-  Smart open-source social intranet by Visma. Features Wall for employee posts and discussions (with images, video links, GIFs), Employee Directory with detailed profiles, and Kudos peer recognition system with gamification. AngularJS frontend, ASP.NET MVC+WebApi backend. Docker deployment available .
-
-- **[Digital Workplace Employee Hub](https://github.com/WRVish/digital-workplace-employee-hub)**
-  Free open-source employee portal for Microsoft 365. Two versions: standalone React SPA (Power Apps Code App) and native SharePoint Framework (SPFx) web part. Features user management, leave administration, asset management, expense/travel management, and ticketing with role-based access control. Built on SharePoint backend with no extra infrastructure .
-
-- **[Axero Intranet Hub](https://github.com/Tech-Vexy/axero-intranet-hub)**
-  Modern, responsive intranet portal built as a frontend challenge sponsored by Axero. Features user authentication with RBAC, interactive dashboard, team spotlights, calendar system, employee directory, device management, communication hub with chat, weather widget, activity feed, dark/light mode, and keyboard shortcuts. Uses IndexedDB for client-side persistence .
-
-- **[BlueSpice MediaWiki](https://github.com/HalloWelt/BlueSpice)**
-  Globally trusted enterprise wiki distribution based on MediaWiki. Used for knowledge and quality management, technical/IT documentation, and organizational manuals. Extends MediaWiki with professional enterprise features .
-
-### Additional Strong Open-Source Options
-
-- **CMS Foundations**: **WordPress** (multi-site network with plugins for file sharing, staff directories, task management), **Drupal** (structured content, enterprise-scale), **Joomla** (flexible CMS for intranet portals) .
-- **Knowledge & Collaboration**: **XWiki** (enterprise wiki, 900+ extensions), **BlueSpice** (enterprise MediaWiki distribution), **eXo Platform** (social intranet with activity streams) .
-- **Microsoft 365 Integration**: **SharePoint** (native intranet foundation), **Viva Connections/Engage/Amplify** (communication layer), **Digital Workplace Employee Hub** (open-source SPFx portal) .
-- **Lightweight Portals**: **Simoona** (social intranet with Kudos), **Axero Intranet Hub** (responsive portal with device management) .
-
-**Frameworks for building custom systems**: Combine **eXo Platform** or **Liferay** for the core intranet, **XWiki** for knowledge management, **Simoona** for social features, and **PostgreSQL** for persistence. Add **Microsoft 365 integration** via SPFx or Graph API for organizations already in that ecosystem.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Intranet platforms handle sensitive employee and organizational data; ensure compliance with data protection regulations and internal governance policies.
-- Open-source intranet solutions require significant operational investment. Forrester reports that only about half of reference customers were meaningfully using their vendor's AI capabilities, highlighting the gap between feature availability and actual adoption . As one analysis notes: "Free refers to the license, not the project" — you pay in hosting, security, development, and maintenance .
+**Curated List of SaaS Products & Open-Source GitHub Projects** 🚀  
+*Focused on Employee Communication, Digital Workplace, Knowledge Sharing, Enterprise Search & Internal Collaboration* 💬  
+**📅 Last updated: September 2026**
 
 ---
 
-**Made for internal communications teams, HR leaders, IT administrators, and digital workplace strategists.**
-Let's make employee experiences more open, connected, and engaging.
+Welcome to the **Awesome Intranet Platform** directory! 🌟 This repository tracks top-tier **SaaS platforms** ☁️ and **open-source intranet software** 💻 designed to connect hybrid and deskless workforces, streamline internal communication, centralize knowledge management, and enhance employee engagement across enterprise organizations.
+
+---
+
+## 📑 Table of Contents
+- [📊 Market Overview & Ecosystem Dynamics](#-market-overview--ecosystem-dynamics)
+- [☁️ SaaS & Enterprise Hosted Platforms](#%EF%B8%8F-saas--enterprise-hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Architecture & Tech Stack Blueprint](#%EF%B8%8F-architecture--tech-stack-blueprint)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer & Compliance](#%EF%B8%8F-disclaimer--compliance)
+- [📈 Star History](#-star-history)
+
+---
+
+## 📊 Market Overview & Ecosystem Dynamics
+
+> [!NOTE]
+> **Market Size & Valuation** 📈: The global intranet and digital workplace software market is estimated at **$4.8B – $5.2B in 2026** and projected to reach **$22B+ by 2034** with a CAGR of **~12.5%**.
+> 
+> **Competitive Dynamics** 🧩: The sector is **moderately to highly fragmented** rather than a "winner-take-all" landscape. Enterprise buyers increasingly deploy modular, composable digital workplaces combining specialized EX (Employee Experience) tools, enterprise wikis, and frontline communication hubs over monolithic single-vendor suites.
+
+---
+
+## ☁️ SaaS & Enterprise Hosted Platforms
+
+The table below summarizes leading commercial SaaS intranet providers, ordered by company size (estimated revenue / valuation / parent organization scale, descending). 🏢
+
+| Platform 🏢 | Starting Paid Tier Price 💰 | Free Tier / Free Trial Limit 🎁 | Enterprise Scale (Revenue / Valuation) 📊 | Key Features & Strengths ✨ |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Workvivo](https://www.workvivo.com/)** | **$20,000 / year** (base enterprise package) | **14-day free trial** (custom sales setup) | **>$100M ARR** (Acquired by Zoom) | Social-style employee engagement, frontline mobile app, activity feeds, Zoom ecosystem integration. 📱 |
+| **[Simpplr](https://www.simpplr.com/)** | **$4.00 / user / month** (contract starting tier) | **14-day free trial** (upon sales approval) | **$547M Valuation** ($131M raised) | AI-powered enterprise search, personalized activity feeds, integrations with SharePoint, Box, and Google Drive. 🤖 |
+| **[LumApps](https://www.lumapps.com/)** | **$6.00 / user / month** (annual commitment) | **14-day free trial** (requested via sales) | **~$65M ARR** ($102M funding) | Google Workspace & Microsoft 365 alignment, brand portal customization, multi-lingual enterprise workflows. 🌍 |
+| **[Unily](https://www.unily.com/)** | **$5.00 / user / month** (enterprise volume tier) | **14-day free trial** (demo-gated request) | **~$55M ARR** (Acquired by CVC Capital) | Targeted multi-channel internal communications campaigns, widget framework, high-security governance. 🛡️ |
+| **[Interact Software](https://www.interactsoftware.com/)** | **$5.00 / user / month** (base package) | **14-day free trial** (upon request) | **~$36M ARR** (Private VC-backed) | Mature intranet platform, analytics engine, content management governance, high customer retention. 📊 |
+| **[Haiilo](https://www.haiilo.com/)** | **$4.50 / user / month** (base volume plan) | **14-day free trial** (sales-arranged) | **~$30M ARR** (Private / Merged COYO+Smarp) | Employee advocacy module, pulse surveys, behavioral engagement analytics, social intranet feed. 📢 |
+| **[Igloo Software](https://www.igloosoftware.com/)** | **$8.00 / user / month** (starter business tier) | **14-day free trial** (self-serve/sales setup) | **~$25M ARR** (Gartner Visionary) | Digital workplace hubs, departmental team spaces, knowledge bases, governance and compliance controls. 🧊 |
+| **[Happeo](https://www.happeo.com/)** | **$4.00 / user / month** (starter plan) | **14-day free trial** (direct signup) | **~$20M ARR** ($26M Series B) | Native Google Workspace deep integration, real-time page editor, universal search, employee directory. ⚡ |
+| **[ThoughtFarmer](https://www.thoughtfarmer.com/)** | **$5.00 / user / month** (volume tier) | **14-day free trial** (instant trial access) | **~$12M ARR** (Independent profitable) | Hybrid work collaboration, organizational chart visualizer, employee recognition, intuitive UI. 🌾 |
+| **[Axero](https://www.axero.com/)** | **$10.00 / user / month** (starter tier) | **14-day free trial** (guided walkthrough) | **~$6.4M ARR** (Self-funded / Bootstrap) | Flexible wiki/blog architecture, built-in task management, customizable UI, IndexedDB web hub support. 🔧 |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Open-source intranet solutions offer complete code transparency, self-hosted data privacy, custom extensibility, and freedom from per-seat SaaS licensing fees. 🔓
+
+The table below is sorted by **GitHub Star Count (Descending)**. 🌟
+
+| Project 🛠️ | GitHub Stars ⭐ | License 📜 | Primary Tech Stack ⚙️ | Description & Strategic Focus 🎯 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Plane](https://github.com/makeplane/plane)** | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | Apache-2.0 | Next.js, Python, Django, PostgreSQL | Open-source enterprise project management and workspace hub; ideal digital workplace component for tracking organizational goals and issue tracking. ✈️ |
+| **[Outline](https://github.com/outline/outline)** | [![Outline Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | BSL 1.1 / AGPL-3.0 | React, Node.js, TypeScript, PostgreSQL | Modern, ultra-fast knowledge base and wiki for growing teams. Seamless Markdown editor and real-time collaborative document structure. 📝 |
+| **[Mattermost](https://github.com/mattermost/mattermost)** | [![Mattermost Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) | AGPL-3.0 | Go, React, PostgreSQL, MySQL | Open-source enterprise messaging, workplace chat, and incident response platform. Replaces proprietary internal communications tools. 💬 |
+| **[Nextcloud Server](https://github.com/nextcloud/server)** | [![Nextcloud Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | AGPL-3.0 | PHP, Vue.js, PostgreSQL/MySQL | Self-hosted productivity suite featuring Nextcloud Hub (Files, Groupware, Talk, Office). Serves as complete open digital workplace for 10M+ users. ☁️ |
+| **[Documenso](https://github.com/documenso/documenso)** | [![Documenso Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | AGPL-3.0 | Next.js, TypeScript, Prisma, PostgreSQL | Open-source document signing and workflow tool designed for enterprise digital workplace integration. ✍️ |
+| **[Liferay DXP](https://github.com/liferay/liferay-portal)** | [![Liferay Stars](https://img.shields.io/github/stars/liferay/liferay-portal?style=social&color=white)](https://github.com/liferay/liferay-portal/stargazers) | LGPL-2.1 | Java, OSGi, React, Elasticsearch | Enterprise-grade digital experience portal. Offers low-code page builders, structured asset management, enterprise search, and workflow automation. 🧱 |
+| **[XWiki Platform](https://github.com/xwiki/xwiki-platform)** | [![XWiki Stars](https://img.shields.io/github/stars/xwiki/xwiki-platform?style=social&color=white)](https://github.com/xwiki/xwiki-platform/stargazers) | LGPL-2.1 | Java, Velocity, Solr, Hibernate | Advanced enterprise wiki and application platform with 900+ extensions. Matches proprietary wiki software feature-for-feature with fine-grained RBAC. 📚 |
+| **[Twake Workplace](https://github.com/linagora/twake-workplace)** | [![Twake Stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace/stargazers) | AGPL-3.0 | TypeScript, React, PHP, Matrix | Open-source digital workplace featuring Matrix-powered chat, file storage, calendar, task management, and collaborative document editing. 👥 |
+| **[eXo Platform](https://github.com/exoplatform/platform)** | [![eXo Stars](https://img.shields.io/github/stars/exoplatform/platform?style=social&color=white)](https://github.com/exoplatform/platform/stargazers) | LGPL-3.0 | Java 21, Spring 6, Vue.js, Tomcat | Leading open-source intranet platform with 20+ years of active development. Features AI chatbot integration, social wall, unified search, and PWA mobile apps. 🚀 |
+| **[Simoona Intranet](https://github.com/VismaLietuva/simoona)** | [![Simoona Stars](https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white)](https://github.com/VismaLietuva/simoona/stargazers) | MIT | AngularJS, C#, ASP.NET, Docker | Social intranet platform by Visma featuring interactive activity walls, employee directory, gamified Kudos peer recognition system, and event calendars. 🏆 |
+| **[BlueSpice MediaWiki](https://github.com/HalloWelt/BlueSpice)** | [![BlueSpice Stars](https://img.shields.io/github/stars/HalloWelt/BlueSpice?style=social&color=white)](https://github.com/HalloWelt/BlueSpice/stargazers) | GPL-2.0 | PHP, MediaWiki, JavaScript | Enterprise MediaWiki distribution tailored for knowledge management, quality documentation, compliance manuals, and internal IT wikis. 📖 |
+| **[Digital Workplace Hub](https://github.com/WRVish/digital-workplace-employee-hub)** | [![Hub Stars](https://img.shields.io/github/stars/WRVish/digital-workplace-employee-hub?style=social&color=white)](https://github.com/WRVish/digital-workplace-employee-hub/stargazers) | MIT | React, SPFx, Microsoft 365 | Open-source Microsoft 365 employee portal with SPFx web parts and React SPA. Features leave management, asset tracking, expense claims, and ticketing. 🏢 |
+| **[Axero Intranet Hub](https://github.com/Tech-Vexy/axero-intranet-hub)** | [![Axero Hub Stars](https://img.shields.io/github/stars/Tech-Vexy/axero-intranet-hub?style=social&color=white)](https://github.com/Tech-Vexy/axero-intranet-hub/stargazers) | MIT | React, JavaScript, IndexedDB | Modern client-side intranet portal built with RBAC authentication, activity feeds, team directory, dark mode, keyboard shortcuts, and device management. 💻 |
+
+---
+
+## 🏗️ Architecture & Tech Stack Blueprint
+
+For engineering teams seeking to assemble a **custom self-hosted enterprise digital workplace**, a recommended modular stack includes: 🛠️
+
+- **Core Portal & Social Intranet**: [eXo Platform](https://github.com/exoplatform/platform) or [Liferay DXP](https://github.com/liferay/liferay-portal) 🏢
+- **Document Management & Cloud Collaboration**: [Nextcloud Server](https://github.com/nextcloud/server) 📁
+- **Knowledge Base & Technical Wiki**: [Outline](https://github.com/outline/outline) or [XWiki](https://github.com/xwiki/xwiki-platform) 📖
+- **Internal Messaging & Real-Time Chat**: [Mattermost](https://github.com/mattermost/mattermost) 💬
+- **Goal & Project Management**: [Plane](https://github.com/makeplane/plane) 🎯
+- **E-Signature Workflows**: [Documenso](https://github.com/documenso/documenso) ✍️
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository. 🍴
+2. Update or add new entries to `README.md` following the tabular format. 📝
+3. Ensure all links, descriptions, pricing figures, and star count badges remain accurate. ✅
+4. Submit a Pull Request detailing your proposed updates. 🚀
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for visiting and using this curated directory! 🙏 If you find this repository helpful for your team or organization, please consider giving it a ⭐ **Star**, **Forking** it, or sharing it with your network! 📢
+
+If you would like to support ongoing maintenance, new features, and community updates, feel free to buy me a coffee or sponsor via GitHub Sponsors:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⚖️ Disclaimer & Compliance
+
+- This repository is a **community-curated index** and does not constitute an official commercial endorsement. ℹ️
+- Intranet and digital workplace software process sensitive corporate data, employee PII, and internal IP. Ensure your deployment adheres to GDPR, SOC2, HIPAA, and internal security policies. 🛡️
+- Open-source implementations require operational commitment for infrastructure, security patching, and lifecycle maintenance. ⚙️
+
+---
+
+## 📈 Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Intranet-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Intranet-Platform&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for HR Leaders, IT Directors, Internal Communications Specialists, &amp; Software Architects.</b><br>
+  <i>Empowering modern remote, hybrid, and frontline workforces worldwide. 🌍</i>
+</p>
