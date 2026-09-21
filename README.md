@@ -60,9 +60,9 @@ The table below summarizes leading commercial SaaS intranet providers, ordered b
 
 Open-source intranet solutions offer complete code transparency, self-hosted data privacy, custom extensibility, and freedom from per-seat SaaS licensing fees. 🔓
 
-The table below is sorted by **GitHub Star Count (Descending)**. 🌟
+The table below is sorted by **GitHub Stars_Count (Descending)**. 🌟
 
-| Project 🛠️ | GitHub Stars ⭐ | License 📜 | Primary Tech Stack ⚙️ | Description & Strategic Focus 🎯 |
+| Project 🛠️ | GitHub_Stars ⭐ | License 📜 | Primary Tech Stack ⚙️ | Description & Strategic Focus 🎯 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Plane](https://github.com/makeplane/plane)** | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | Apache-2.0 | Next.js, Python, Django, PostgreSQL | Open-source enterprise project management and workspace hub; ideal digital workplace component for tracking organizational goals and issue tracking. ✈️ |
 | **[Outline](https://github.com/outline/outline)** | [![Outline Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | BSL 1.1 / AGPL-3.0 | React, Node.js, TypeScript, PostgreSQL | Modern, ultra-fast knowledge base and wiki for growing teams. Seamless Markdown editor and real-time collaborative document structure. 📝 |
@@ -97,7 +97,7 @@ For engineering teams seeking to assemble a **custom self-hosted enterprise digi
 
 1. Fork this repository. 🍴
 2. Update or add new entries to `README.md` following the tabular format. 📝
-3. Ensure all links, descriptions, pricing figures, and star count badges remain accurate. ✅
+3. Ensure all links, descriptions, pricing figures, and Stars_Count badges remain accurate. ✅
 4. Submit a Pull Request detailing your proposed updates. 🚀
 
 ---
